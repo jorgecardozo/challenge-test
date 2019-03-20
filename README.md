@@ -12,7 +12,7 @@ resultados, y la descripción del detalle del producto.
       - Node >= 6
       - Express
 
-# Descargar e instalacion de dependencias del Proyecto
+# Descarga e instalacion de dependencias del Proyecto
   - Clonación del proyecto:
     - ``` git clone https://github.com/jorgecardozo/challenge-test.git ```
   - Instalacion de dependencias: 
@@ -22,6 +22,10 @@ resultados, y la descripción del detalle del producto.
 
   El proyecto consta de dos partes Cliente (FrontEnd) y Servidor (BackEnd)
   
-  1. 
+  1. Cliente
+    Comando para ejecutar el cliente:
+      - npm start
+      - Se de accceder a 
+      [http://localhost:3000/]
   
   
