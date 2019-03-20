@@ -61,4 +61,13 @@ resultados, y la descripción del detalle del producto.
   ### Renderizado
    React está pensado para poder ser usado tanto en aplicaciones web como en aplicaciones móviles nativas.
    Eso explica la necesidad del paquete  'react-dom', que nos permite mostrar los componentes en una página web.
+   
+---------------------------------------------------------------------------------
+
+## El uso del "preprocesasador de CSS" como Sass se centro en las siguientes caracteristicas
+Es un lenguaje de script (SassScript) que una vez que es compilado es traducido a CSS. También proporciona mecanismos como el uso de variables, partials, import, nesting (anidamiento), mixins, y herencia de los selectores.
+
+   ###
+
+
   
