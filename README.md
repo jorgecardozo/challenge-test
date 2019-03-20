@@ -30,7 +30,10 @@ resultados, y la descripción del detalle del producto.
     Comandos para ejecutar el servidor:
      - npm start
      - Todas las solicitudes accederan a (http://localhost:4000/api/items)
-    
+     
+     
+--------------------------------------------------------------------------
+
 ## El uso de React se centro en las siguientes caracteristicas de este Freamwork
   React es una libreria para crear interfaces de usuario, es declarativo, basado en componentes e independiente del resto de las tecnologías.
   
@@ -42,4 +45,7 @@ resultados, y la descripción del detalle del producto.
    - Fácil de testear,
    - Se puede integrar en páginas existentes e incluso mezclar con frameworks JS,
    - Permite crear páginas webs, así como también aplicaciones móviles (nativas).
+   
+   ### Componentes
+  Los componentes permiten dividir la Interfaz de Usuario (UI) en partes independientes, reusables de código, y pensar de manera aislada en ellos.
   
