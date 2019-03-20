@@ -73,15 +73,15 @@ Es un lenguaje de script (SassScript) que una vez que es compilado es traducido 
    
    ### Algunos mecanismo que nos ofrece: 
    
-   - Definición de variables: las variables comienzan con el signo de dolar $ y la asignación de variables se hace con el uso de dos puntos :
+   - **Definición de variables**: las variables comienzan con el signo de dolar **$** y la asignación de variables se hace con el uso de dos puntos :
   Estas variables permiten 4 tipos de datos los cuales son: números, String o cadenas de caracteres, colores en hexadecimal o por nombre (en ingles) y valores de tipo booleano.
 
-  - Partials:  Un partial es un archivo Sass nombrado al principio con un subrayado inicial. Puedes asignarle un nombre como **_variables.scss** y escribir en él la declaración y asignación de variables en Sass de tu proyecto. Es importante destacar que el guión bajo le permite a Sass saber que el archivo es solo un archivo partial y que este sera llamado con la directiva @import desde el archivo principal .scss o .sass. Esto ayuda a ordenar, separar o modularizar a nivel de archivo tu código Sass.
-Import. La opción o directiva de importación @import te permite dividir junto con los archivos partials el CSS en partes pequeñas y fáciles de mantener. Solo hay un inconveniente que se detalla en la documentación oficial y es que cada vez que se utiliza un @import en CSS se crea otra solicitud HTTP.
-  - Nesting (anidamiento): Sass te permitirá anidar tus selectores CSS de una manera que siga una jerarquía visual de tipo HTML. Pero hay que tener en cuenta que las reglas excesivamente anidadas resultarán en CSS difícil de mantener y se considera una mala práctica. Así que no abusar de muchos anidamientos y sobre-anidamientos de tus selectores.
-  - Mixins: Un mixins es parecida a una función (semejante a la de un lenguaje de programación) que podrá ser usada en distintos selectores, lo que permitirá escribir valores o atributos CSS y reutilizarlos adecuadamente. Esto  es uno de los aportes que mencionaba que Sass ayudaba a hacer bloques de código de forma modular.
-  - Herencia: Esta es otra de las caracteristicas más utiles de Sass. Haciendo uso de la palabra reservada @extend te permite compartir un conjunto de propiedades CSS de un selector a otro.
-  - Operators: Sass ofrece un puñado de operadores matemáticos estándar como son: Adición (+), Sustracción (–), Multiplicación (*), División (/) y Modulo (%).
+  - **Partials**:  Un **partial** es un **archivo Sass nombrado al principio con un subrayado inicial**. Puedes asignarle un nombre como **_variables.scss** y escribir en él la declaración y asignación de variables en **Sass** de tu proyecto. Es importante destacar que el guión bajo le permite a **Sass** saber que el archivo es solo un archivo partial y que este sera llamado con la directiva **@import** desde el archivo principal **.scss** o **.sass**. Esto ayuda a ordenar, separar o modularizar a nivel de archivo tu código **Sass**.
+  - **Import**: La opción o directiva de importación **@import** te permite dividir junto con los archivos partials el **CSS** en partes pequeñas y fáciles de mantener. Solo hay un inconveniente que se detalla en la documentación oficial y es que cada vez que se utiliza un **@import** en **CSS** se crea otra solicitud **HTTP**.
+  - **Nesting (anidamiento)**: **Sass** te permitirá anidar tus selectores **CSS** de una manera que siga una jerarquía visual de tipo **HTML**. Pero hay que tener en cuenta que las reglas excesivamente anidadas resultarán en **CSS** difícil de mantener y se considera una mala práctica. Así que no abusar de muchos anidamientos y sobre-anidamientos de tus selectores.
+  - **Mixins**: Un mixins es parecida a una función (semejante a la de un lenguaje de programación) que podrá ser usada en distintos **selectores**, lo que permitirá escribir valores o atributos **CSS** y reutilizarlos adecuadamente. Esto  es uno de los aportes que mencionaba que **Sass** ayudaba a hacer bloques de código de forma modular.
+  - **Herencia**: Esta es otra de las caracteristicas más utiles de **Sass**. Haciendo uso de la palabra reservada **@extend** te permite compartir un conjunto de **propiedades CSS** de un selector a otro.
+  - **Operators**: **Sass** ofrece un puñado de operadores matemáticos estándar como son: **Adición (+)**, **Sustracción (–)**, **Multiplicación (*)**, **División (/)** y **Modulo (%)**.
    
 
 
