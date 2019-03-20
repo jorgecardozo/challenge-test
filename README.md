@@ -38,16 +38,16 @@ resultados, y la descripción del detalle del producto.
   React es una libreria para crear interfaces de usuario, es declarativo, basado en componentes e independiente del resto de las tecnologías.
   
   ### Caracteristicas principales:
-   - Favorece la reusabilidad de componentes,
+   - Favorece la **reusabilidad** de componentes,
    - Orientado a desarrollo de UI(Interfaces de Usuario),
-   - JSX para integrar HTML y Javascript de manera elegante,
+   - JSX para integrar HTML y Javascript de manera **elegante**,
    - Permite renderizado en el servidor,
    - Fácil de testear,
    - Se puede integrar en páginas existentes e incluso mezclar con frameworks JS,
    - Permite crear páginas webs, así como también aplicaciones móviles (nativas).
    
    ### Componentes
-  Los componentes permiten dividir la Interfaz de Usuario (UI) en partes independientes, reusables de código, y pensar de manera aislada en ellos.
+  Los componentes permiten **dividir la Interfaz de Usuario** (UI) en **partes independientes**, **reusables de código**, y pensar de manera **aislada** en ellos.
   
   ### JSX
    JSX es una extensión a JavaScript muy usada en React, permite de manera muy elegante usar componentes y elementos HTML mezclado con JavaScript.
