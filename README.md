@@ -7,7 +7,7 @@ resultados, y la descripción del detalle del producto.
   - Cliente:
       - HTML
       - JS (React JS)
-      - CSS (Sass)
+      - CSS (Sass) y Bootstrap
   - Servidor:
       - Node >= 6
       - Express
