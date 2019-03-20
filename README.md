@@ -33,7 +33,7 @@ resultados, y la descripción del detalle del producto.
   1. Cliente
     Comando para ejecutar el cliente:
       - npm start
-      - Se de accceder a (http://localhost:3000/)
+      - Se debe accceder a (http://localhost:3000/)
   2. Servidor
     Comandos para ejecutar el servidor:
      - npm start
