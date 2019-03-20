@@ -31,5 +31,6 @@ resultados, y la descripción del detalle del producto.
      - npm start
      - Todas las solicitudes accederan a (http://localhost:4000/api/items)
     
-  
+## El uso de React se centro en las siguientes caracteristicas de este Freamwork
+  React es una libreria para crear interfaces de usuario, es declarativo, basado en componentes e independiente del resto de las tecnologías.
   
