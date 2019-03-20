@@ -49,3 +49,12 @@ resultados, y la descripción del detalle del producto.
    ### Componentes
   Los componentes permiten dividir la Interfaz de Usuario (UI) en partes independientes, reusables de código, y pensar de manera aislada en ellos.
   
+  ### JSX
+    JSX es una extensión a JavaScript muy usada en React, permite de manera muy elegante usar componentes y elementos HTML mezclado con JavaScript.
+    Es aún mejor que un lenguaje de templating, porque está disponible directamente en JavaScript.
+
+ Componentes con JSX permiten combinar lógica y markup:
+  - cómo se manejan los eventos, 
+  - cómo cambia el estado en el tiempo, y
+  - cómo la información es preparada para ser visualizada.
+  
