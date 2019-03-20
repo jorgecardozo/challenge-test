@@ -1,2 +1,1 @@
-# challenge-test
-Challenge - Test Práctico - FrontEnd
+## Challenge - Test Práctico - FrontEnd
