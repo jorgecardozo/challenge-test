@@ -59,6 +59,6 @@ resultados, y la descripción del detalle del producto.
   - cómo la información es preparada para ser visualizada.
   
   ### Renderizado
-    React está pensado para poder ser usado tanto en aplicaciones web como en aplicaciones móviles nativas.
-  Eso explica la necesidad del paquete  'react-dom', que nos permite mostrar los componentes en una página web.
+   React está pensado para poder ser usado tanto en aplicaciones web como en aplicaciones móviles nativas.
+   Eso explica la necesidad del paquete  'react-dom', que nos permite mostrar los componentes en una página web.
   
