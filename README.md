@@ -5,6 +5,7 @@ La aplicación consta de tres componentes principales: la caja de búsqueda, la 
 resultados, y la descripción del detalle del producto.
 
 ------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
 ### Stack tecnológico usados para construir la aplicación:
   - Cliente:
@@ -14,6 +15,8 @@ resultados, y la descripción del detalle del producto.
   - Servidor:
       - Node >= 6
       - Express
+      
+-------------------------------------------------------------------------------------------------
 
 ### Descarga e instalacion de dependencias del Proyecto
   - Clonación del proyecto:
@@ -21,6 +24,8 @@ resultados, y la descripción del detalle del producto.
   - Instalacion de dependencias: 
      - ``` npm install ```
      
+-------------------------------------------------------------------------------------------------
+ 
 ## Esquema del Proyecto
 
   El proyecto consta de dos partes Cliente (FrontEnd) y Servidor (BackEnd)
