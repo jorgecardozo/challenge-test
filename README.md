@@ -58,3 +58,7 @@ resultados, y la descripción del detalle del producto.
   - cómo cambia el estado en el tiempo, y
   - cómo la información es preparada para ser visualizada.
   
+ ### Renderizado
+  React está pensado para poder ser usado tanto en aplicaciones web como en aplicaciones móviles nativas.
+  Eso explica la necesidad del paquete  'react-dom', que nos permite mostrar los componentes en una página web.
+  
