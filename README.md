@@ -25,7 +25,6 @@ resultados, y la descripción del detalle del producto.
   1. Cliente
     Comando para ejecutar el cliente:
       - npm start
-      - Se de accceder a 
-[http://localhost:3000/]
+      - Se de accceder a (http://localhost:3000/)
   
   
