@@ -1,4 +1,4 @@
-## Challenge - Test Práctico - FrontEnd
+# Challenge - Test Práctico - FrontEnd
 
 La aplicación consta de tres componentes principales: la caja de búsqueda, la visualización de
 resultados, y la descripción del detalle del producto.
@@ -11,3 +11,10 @@ resultados, y la descripción del detalle del producto.
   - Servidor:
       - Node >= 6
       - Express
+     
+## Esquema del Proyecto
+
+  El proyecto consta de dos partes Cliente (FrontEnd) y Servidor (BackEnd)
+  
+  
+  
