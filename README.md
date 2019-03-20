@@ -34,3 +34,12 @@ resultados, y la descripción del detalle del producto.
 ## El uso de React se centro en las siguientes caracteristicas de este Freamwork
   React es una libreria para crear interfaces de usuario, es declarativo, basado en componentes e independiente del resto de las tecnologías.
   
+   ### Caracteristicas principales:
+    - Favorece la reusabilidad de componentes,
+    - Orientado a desarrollo de UI(Interfaces de Usuario),
+    - JSX para integrar HTML y Javascript de manera elegante,
+    - Permite renderizado en el servidor,
+    - Fácil de testear,
+    - Se puede integrar en páginas existentes e incluso mezclar con frameworks JS,
+    - Permite crear páginas webs, así como también aplicaciones móviles (nativas).
+  
