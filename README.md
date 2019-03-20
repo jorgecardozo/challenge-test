@@ -69,7 +69,7 @@ Es un lenguaje de script (SassScript) que una vez que es compilado es traducido 
 
    ### Caracteristicas principales:
    
-   El usar Sass apoya en la construcción de bloques de código de forma más *modular*, cosa que con CSS la verdad no era posible hacerlo. Pero que quiero decir de forma más modular, pues que te **permite construir bloques de código y reutilizarlos e inclusive hacer herencia de estos bloques de código y heredarlos a otros selectores**, cosa muy parecida a lo que ofrece un lenguaje de programación.
+   El usar Sass apoya en la construcción de bloques de código de forma más **modular**, cosa que con CSS la verdad no era posible hacerlo. Pero que quiero decir de forma más modular, pues que te ***permite construir bloques de código y reutilizarlos e inclusive hacer herencia de estos bloques de código y heredarlos a otros selectores***, cosa muy parecida a lo que ofrece un lenguaje de programación.
    
 
 
