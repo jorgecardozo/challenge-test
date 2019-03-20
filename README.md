@@ -64,10 +64,13 @@ resultados, y la descripción del detalle del producto.
    
 ---------------------------------------------------------------------------------
 
-## El uso del "preprocesasador de CSS" como Sass se centro en las siguientes caracteristicas
+## El Sass se centro en las siguientes caracteristicas de este preprocesasador de CSS
 Es un lenguaje de script (SassScript) que una vez que es compilado es traducido a CSS. También proporciona mecanismos como el uso de variables, partials, import, nesting (anidamiento), mixins, y herencia de los selectores.
 
-   ###
+   ### Caracteristicas principales:
+   
+   El usar Sass apoya en la construcción de bloques de código de forma más *modular*, cosa que con CSS la verdad no era posible hacerlo. Pero que quiero decir de forma más modular, pues que te **permite construir bloques de código y reutilizarlos e inclusive hacer herencia de estos bloques de código y heredarlos a otros selectores**, cosa muy parecida a lo que ofrece un lenguaje de programación.
+   
 
 
   
