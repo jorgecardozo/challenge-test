@@ -13,8 +13,8 @@ resultados, y la descripción del detalle del producto.
       - JS (React JS versión 16.6.3)
       - CSS (Sass versión 4.11.0) y Bootstrap versión 4.1.3
   - Servidor:
-      - Node >= 6
-      - Express
+      - Node (versión 10.15.0)
+      - Express (versión 1.0.0)
       
 -------------------------------------------------------------------------------------------------
 
