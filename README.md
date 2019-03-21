@@ -115,12 +115,12 @@ Es un lenguaje de script (SassScript) que una vez que es compilado es traducido 
 ## Se tuvieron en cuenta los aspectos propuestos para el challenge:
 
 ### Usabilidad
-  - Al iniciar la página de la aplicación se hace **foco** en el **input** del buscador, esto beneficia al usuario para no hacer **click** dentro del **input** y buscar. Tambnien luego de cada busqueda se vuleve a hacer **foco** en dicho **input**.
+  - Al iniciar la página de la aplicación se hace **foco** en el **input** del buscador, esto beneficia al usuario para no hacer **clic** dentro del **input** y buscar. Tambien luego de cada busqueda se vuleve a hacer **foco** en dicho **input**.
   - Se agrego un **NotFound Page** para que el usuario se de cuenta de que su solicitud no fue encontrada o resuelta, y se vuelve a hacer **foco** en el **input** del buscador. 
 Esta **NotFound Page** se muestra en caso de que:
     - La ruta **url** no haga match.
     - La peticion de busqueda al servidor se erronea.
-    - La busqueda del clienta sea vacia.
+    - La busqueda del cliente sea vacia.
     - La aplicacion es adaptable a cualquier dispositivo usado por el cliente. Esto se logro al utilizar Bootstrap, el cual nos provee los beneficios de crear una app responsive.
 ### Escalabilidad
   Como anteriormente mencione las caracteristicas de por que use React y Sass, estos framework fueron esenciales a la hora de pensar en la ***escalabilidad*** de la app, ya que estan basados en **componentes**, ya que permiten reutilizar la funcionalidad de cada uno de ellos, y tener un control independiente. 
