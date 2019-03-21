@@ -110,6 +110,18 @@ Es un lenguaje de script (SassScript) que una vez que es compilado es traducido 
   - Cuenta con implementaciones externas para WordPress, Drupal, etc.
   - Nos permite usar Less, para enriquecer aún más los estilos de la web.
    
+----------------------------------------------------------------------------------------------------------------------
 
+## Se tuvieron en cuenta los aspectos propuestos para el challenge:
+
+### Usabilidad
+  - Al iniciar la página de la aplicación se hace **foco** en el **input** del buscador, esto beneficia al usuario para no hacer **click** dentro del **input** y buscar. Tmbnien luego de cada busqueda se vuleve a hacer **foco** en dicho **input**.
+  - Se agrego un **NotFound Page** para que el usuario se de cuenta de que su solicitud no fue encontrada o resuelta. 
+    Esta **NotFound Page** se muestra en caso de que:
+        - La ruta **url** no haga match.
+        - La peticion de busqueda al servidor se erronea.
+        - La busqueda del clienta sea vacia.
+        
+Colaborar con el usuario para evitar errores en la navegación, por ejemplo en el caso de la página inicial de búsqueda, si envía el formulario cuando el campo de texto está vacío, la aplicación no lo redirecciona a la visualización de resultados sino que vuelve a hacer foco en dicho input, dando a entender de un modo no invasivo que debe asegurarse de completarlo.
 
   
