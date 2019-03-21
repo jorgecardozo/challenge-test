@@ -115,7 +115,7 @@ Es un lenguaje de script (SassScript) que una vez que es compilado es traducido 
 ## Se tuvieron en cuenta los aspectos propuestos para el challenge:
 
 ### Usabilidad
-  - Al iniciar la página de la aplicación se hace **foco** en el **input** del buscador, esto beneficia al usuario para no hacer **click** dentro del **input** y buscar. Tmbnien luego de cada busqueda se vuleve a hacer **foco** en dicho **input**.
+  - Al iniciar la página de la aplicación se hace **foco** en el **input** del buscador, esto beneficia al usuario para no hacer **click** dentro del **input** y buscar. Tambnien luego de cada busqueda se vuleve a hacer **foco** en dicho **input**.
   - Se agrego un **NotFound Page** para que el usuario se de cuenta de que su solicitud no fue encontrada o resuelta, y se vuelve a hacer **foco** en el **input** del buscador. 
     Esta **NotFound Page** se muestra en caso de que:
         - La ruta **url** no haga match.
