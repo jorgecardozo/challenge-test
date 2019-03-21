@@ -135,6 +135,9 @@ Las **Meta tags** sirven para que Google pueda detectar una web y colocarla en s
 
 Su finalidad no es otra más que facilitar la **detección por parte de los motores de búsqueda**, aunque también traen consigo un importante **aumento de tráfico** si saben aprovecharse como es debido.
 
+### Perfomance
+  En cuanto a la performance, el uso de React fue algo clave para esto, ya que nos permite un desarrollo ágil, ordenado y con una arquitectura mantenible, focalizada en componentes y que nos ofrece un gran performance.
+
 
 
   
