@@ -91,8 +91,24 @@ Es un lenguaje de script (SassScript) que una vez que es compilado es traducido 
   - **Herencia**: Esta es otra de las caracteristicas más utiles de **Sass**. Haciendo uso de la palabra reservada **@extend** te permite compartir un conjunto de **propiedades CSS** de un selector a otro.
   - **Operators**: **Sass** ofrece un puñado de operadores matemáticos estándar como son: **Adición (+)**, **Sustracción (–)**, **Multiplicación (*)**, **División (/)** y **Modulo (%)**.
   
+-------------------------------------------------------------------------------------------------------------------
+  
   ## El uso de Bootstrap se centro en las siguientes caracteristicas de este Frameowrk
   Bootstrap es un framework desarrollado y liberado por Twitter que tiene como objetivo facilitar el diseño web. Permite crear de forma sencilla webs de diseño adaptable, es decir, que se ajusten a cualquier dispositivo y tamaño de pantalla y siempre se vean igual de bien **(responsive)**. Es Open Source, por lo que lo podemos usar de forma gratuita y sin restricciones.
+  
+  ### Caracteristicas principales:
+  
+ Nos permite simplificar el **proceso de maquetación**, sirviéndonos de guía para aplicar las buenas prácticas y los diferentes estándares.
+
+  - Puedes tener una web bien organizada de forma visual rápidamente: la curva de aprendizaje hace que su manejo sea asequible y rápido si ya sabes maquetar.
+
+  - Permite utilizar muchos elementos web: desde iconos a desplegables, combinando HTML5, CSS y Javascript.
+  - Sea lo que sea que creemos, el diseño será adaptable, no importa el dispositivo, la escala o resolución.
+  - El grid system: maquetar por columnas nunca fue tan fácil. Además, son muy configurables.
+  - Se integra muy bien con las principales librerías Javascript.
+  - El haber sido creado por Twitter nos da ciertas garantías: está muy pensado y hay mucho trabajo ya hecho. Por lo tanto, hay una comunidad muy activa creando, arreglando cosas, ofreciendo plugins y mucho más..
+  - Cuenta con implementaciones externas para WordPress, Drupal, etc.
+  - Nos permite usar Less, para enriquecer aún más los estilos de la web.
    
 
 
