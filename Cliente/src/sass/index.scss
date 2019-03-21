@@ -1,0 +1,36 @@
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+
+@import './custom-variables.scss';
+
+:root {
+	a:hover {
+		text-decoration: none;
+		background: rgba(0,0,0,0.05);
+	}
+
+	font-size: 62.5%;
+	body {
+		font-size: 1.6rem; // makes 1rem = 10px
+		min-height: 100vh;
+		background-color: $light;
+		padding-bottom: 10rem;
+	}
+}
+
+//Modulos esenciales para el uso de Bootstrap
+@import "node_modules/bootstrap/scss/functions";
+@import "node_modules/bootstrap/scss/variables";
+@import "node_modules/bootstrap/scss/mixins";
+@import 'node_modules/bootstrap/scss/reboot';
+@import 'node_modules/bootstrap/scss/grid';
+
+@import './navbar.scss';
+@import './buscador-style.scss';
+@import './producto-style.scss';
+@import './categoria-style.scss';
+@import './detalle-producto.scss';
+@import './productoLista-style.scss';
+@import './error-style.scss';
+
+
+  
