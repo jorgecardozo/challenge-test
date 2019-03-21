@@ -121,6 +121,7 @@ Es un lenguaje de script (SassScript) que una vez que es compilado es traducido 
         - La ruta **url** no haga match.
         - La peticion de busqueda al servidor se erronea.
         - La busqueda del clienta sea vacia.
+  - La aplicacion es adaptable a cualquier dispositivo usado por el cliente. Esto se logro al utilizar Bootstrap, el cual nos provee los beneficios de crear una app responsive.
 ### Escalabilidad
   Como anteriormente mencione las caracteristicas de por que use React y Sass, estos framework fueron esenciales a la hora de pensar en la ***escalabilidad*** de la app, ya que estan basados en **componentes**, ya que permiten reutilizar la funcionalidad de cada uno de ellos, y permite tener control independiente. 
   
