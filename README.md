@@ -122,6 +122,15 @@ Es un lenguaje de script (SassScript) que una vez que es compilado es traducido 
         - La peticion de busqueda al servidor se erronea.
         - La busqueda del clienta sea vacia.
 ### Escalabilidad
-  Como anteriormente mencione las caracteristicas de por que use React Sass, estos framework fueron esenciales a la hora de pensar en la ***escalabilidad** de la app, ya que estan basados en **componentes**, ya que permiten reutilizar la funcionalidad de cada uno de ellos, y permite tener control independiente. 
+  Como anteriormente mencione las caracteristicas de por que use React y Sass, estos framework fueron esenciales a la hora de pensar en la ***escalabilidad*** de la app, ya que estan basados en **componentes**, ya que permiten reutilizar la funcionalidad de cada uno de ellos, y permite tener control independiente. 
+  
+### SEO (Search Engine Optimization)
+  SEO es el posicionamiento en **buscadores** u optimización de **motores de búsqueda** es el proceso de mejorar la visibilidad de un sitio web en los resultados orgánicos de los diferentes buscadores.
+
+Las Meta tags sirven para que Google pueda detectar una web y colocarla en sus SERPs en base al tipo de contenido que poseen. El bueno uso de las palabras clave en ella es esencial para conseguir una visibilidad adecuada, por lo que saber construir estas etiquetas es uno de los caminos más rápidos hacia el buen posicionamiento SEO.
+
+Su finalidad no es otra más que facilitar la detección por parte de los motores de búsqueda, aunque también traen consigo un importante aumento de tráfico si saben aprovecharse como es debido.
+
+
 
   
