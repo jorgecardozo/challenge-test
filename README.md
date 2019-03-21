@@ -10,8 +10,8 @@ resultados, y la descripción del detalle del producto.
 ### Stack tecnológico usados para construir la aplicación:
   - Cliente:
       - HTML
-      - JS (React JS)
-      - CSS (Sass) y Bootstrap
+      - JS (React JS versión 16.6.3)
+      - CSS (Sass versión 4.11.0) y Bootstrap versión 4.1.3
   - Servidor:
       - Node >= 6
       - Express
