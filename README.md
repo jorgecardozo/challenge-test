@@ -90,6 +90,9 @@ Es un lenguaje de script (SassScript) que una vez que es compilado es traducido 
   - **Mixins**: Un mixins es parecida a una función (semejante a la de un lenguaje de programación) que podrá ser usada en distintos **selectores**, lo que permitirá escribir valores o atributos **CSS** y reutilizarlos adecuadamente. Esto  es uno de los aportes que mencionaba que **Sass** ayudaba a hacer bloques de código de forma modular.
   - **Herencia**: Esta es otra de las caracteristicas más utiles de **Sass**. Haciendo uso de la palabra reservada **@extend** te permite compartir un conjunto de **propiedades CSS** de un selector a otro.
   - **Operators**: **Sass** ofrece un puñado de operadores matemáticos estándar como son: **Adición (+)**, **Sustracción (–)**, **Multiplicación (*)**, **División (/)** y **Modulo (%)**.
+  
+  ## El uso de Bootstrap se centro en las siguientes caracteristicas de este Frameowrk
+  Bootstrap es un framework desarrollado y liberado por Twitter que tiene como objetivo facilitar el diseño web. Permite crear de forma sencilla webs de diseño adaptable, es decir, que se ajusten a cualquier dispositivo y tamaño de pantalla y siempre se vean igual de bien **(responsive)**. Es Open Source, por lo que lo podemos usar de forma gratuita y sin restricciones.
    
 
 
