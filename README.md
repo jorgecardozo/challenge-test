@@ -123,14 +123,14 @@ Esta **NotFound Page** se muestra en caso de que:
     - La busqueda del clienta sea vacia.
     - La aplicacion es adaptable a cualquier dispositivo usado por el cliente. Esto se logro al utilizar Bootstrap, el cual nos provee los beneficios de crear una app responsive.
 ### Escalabilidad
-  Como anteriormente mencione las caracteristicas de por que use React y Sass, estos framework fueron esenciales a la hora de pensar en la ***escalabilidad*** de la app, ya que estan basados en **componentes**, ya que permiten reutilizar la funcionalidad de cada uno de ellos, y permite tener control independiente. 
+  Como anteriormente mencione las caracteristicas de por que use React y Sass, estos framework fueron esenciales a la hora de pensar en la ***escalabilidad*** de la app, ya que estan basados en **componentes**, ya que permiten reutilizar la funcionalidad de cada uno de ellos, y tener un control independiente. 
   
 ### SEO (Search Engine Optimization)
   El posicionamiento en **buscadores** u optimización de **motores de búsqueda** es el proceso de mejorar la visibilidad de un sitio web en los resultados orgánicos de los diferentes buscadores.
 
 
-Para aplicar este conceptode SEO se utilizo la siguientet libreria para agregar **meta tags**
-        - react-meta-tags
+Para aplicar este conceptode SEO se utilizo la siguientet libreria para agregar **meta tags**:
+  - react-meta-tags
     
 Las **Meta tags** sirven para que Google pueda detectar una web y colocarla en sus SERPs en base al tipo de contenido que poseen. El bueno uso de las palabras clave en ella es esencial para conseguir una visibilidad adecuada, por lo que saber construir estas etiquetas es uno de los caminos más rápidos hacia el buen posicionamiento **SEO**.
 
