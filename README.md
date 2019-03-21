@@ -129,8 +129,8 @@ Esta **NotFound Page** se muestra en caso de que:
   El posicionamiento en **buscadores** u optimización de **motores de búsqueda** es el proceso de mejorar la visibilidad de un sitio web en los resultados orgánicos de los diferentes buscadores.
 
 
-Para aplicar este conceptode SEO se utilizo la siguientet libreria para agregar meta tags
-  - react-meta-tags
+Para aplicar este conceptode SEO se utilizo la siguientet libreria para agregar **meta tags**
+        - react-meta-tags
     
 Las **Meta tags** sirven para que Google pueda detectar una web y colocarla en sus SERPs en base al tipo de contenido que poseen. El bueno uso de las palabras clave en ella es esencial para conseguir una visibilidad adecuada, por lo que saber construir estas etiquetas es uno de los caminos más rápidos hacia el buen posicionamiento **SEO**.
 
