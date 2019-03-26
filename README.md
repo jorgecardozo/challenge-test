@@ -121,7 +121,7 @@ Esta **NotFound Page** se muestra en caso de que:
     - La ruta **url** no haga match.
     - La peticion de busqueda al servidor se erronea.
     - La busqueda del cliente sea vacia.
-    - La aplicacion es adaptable a cualquier dispositivo usado por el cliente. Esto se logro al utilizar Bootstrap, el cual nos provee los beneficios de crear una app responsive.
+ - La aplicacion es adaptable a cualquier dispositivo usado por el cliente. Esto se logro al utilizar Bootstrap, el cual nos provee los beneficios de crear una app responsive.
 ### Escalabilidad
   Como anteriormente mencione las caracteristicas de por que use React y Sass, estos framework fueron esenciales a la hora de pensar en la ***escalabilidad*** de la app, ya que estan basados en **componentes**, ya que permiten reutilizar la funcionalidad de cada uno de ellos, y tener un control independiente. 
   
